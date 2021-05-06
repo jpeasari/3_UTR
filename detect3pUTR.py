@@ -2,7 +2,6 @@
 
 # detect3pUTR.py
 # Script to detect 3' UTR extensions from gene models and aligned RNA-seq data
-# (C) 2021 Juan Caballero <juan.caballero.perez@gmail.com>
 
 import sys
 import subprocess
