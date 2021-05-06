@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # yeast 3' UTR expression analysis
-# (C) 2021 - Juan Caballero
 
 # DEPS: fastp v020.1, hisat2 v2.2.1, stringtie v2.1.4, samtools v1.11, python v3.x
 
