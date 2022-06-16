@@ -1,6 +1,6 @@
 # 3_UTR
 
-## Predicting 3 UTR end coordinates from the RNA seqencing data.
+## Predicting 3 UTR end coordinates from the single end RNA seqencing data.
 
 #### See conda_env.txt to install required tools
 
