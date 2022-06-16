@@ -5,7 +5,7 @@
 #### See conda_env.txt to install required tools
 
 ### Inputs required:
-#### .fasta, .gff 
+#### reference genome as .fasta, known gene coordinates in a .gff format
 ### Output
 #### .tab file with predicted 3 UTR coordinates
 
