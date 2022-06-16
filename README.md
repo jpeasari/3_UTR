@@ -10,5 +10,5 @@
 ### Output
 #### .tab file with predicted 3 UTR coordinates
 
-## Running the progrAM
+## Running the program
 ### ./analysis.sh
