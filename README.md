@@ -7,3 +7,6 @@
 #### Sorted bam, .gff 
 ### Output
 #### .tab file with predicted 3 UTR coordinates
+
+## Running the progrAM
+### ./analysis.sh
